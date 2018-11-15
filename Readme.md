@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax.vb](./VB/Global.asax.vb))
+* [ArticleModel.cs](./CS/Models/ArticleModel.cs) (VB: [ArticleModel.vb](./VB/Models/ArticleModel.vb))
+* [CategoryModel.cs](./CS/Models/CategoryModel.cs) (VB: [CategoryModel.vb](./VB/Models/CategoryModel.vb))
+* [IXpoController.cs](./CS/Models/IXpoController.cs) (VB: [IXpoController.vb](./VB/Models/IXpoController.vb))
+* [XpoHelper.cs](./CS/Models/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/Models/XpoHelper.vb))
+* [XpoModelBinder.cs](./CS/Models/XpoModelBinder.cs) (VB: [XpoModelBinder.vb](./VB/Models/XpoModelBinder.vb))
+* [GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to bind the ComboBox column to XPO Objects in the GridView extension
 
 
