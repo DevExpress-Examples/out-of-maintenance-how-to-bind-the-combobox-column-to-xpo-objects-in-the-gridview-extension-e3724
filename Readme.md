@@ -12,6 +12,9 @@
 * [Index.cshtml](./CS/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # How to bind the ComboBox column to XPO Objects in the GridView extension
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3724/)**
+<!-- run online end -->
 
 
 <p>The example illustrates how to create an application that utilizes the XPO framework in a manner described in the <a href="https://www.devexpress.com/Support/Center/p/K18525">How to use XPO in an ASP.NET MVC application</a> article.<br />
